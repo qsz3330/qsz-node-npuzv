@@ -1,0 +1,24 @@
+{
+    "name": "@qsz3330/qsz-node-npuzv",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qsz3330/qsz-node-npuzv.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "qsz3330",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/qsz3330/qsz-node-npuzv/issues"
+    },
+    "homepage": "https://github.com/qsz3330/qsz-node-npuzv#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@qsz3330/qsz-node-npuzv": "^1.0.0"
+    }
+}
